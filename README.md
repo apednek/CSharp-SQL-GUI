@@ -8,7 +8,7 @@
 1. Download or clone the repository.
 2. Open 'Microsoft SQL Server Management Studio 18'. Select authentication as "Windows Authentication" and click on 'Connect'.
 3. In the Object-Explorer right click on 'Databases' and click 'Import Data-tier Application'. When the popup window opens navigate where it asks to 'Specify the BACPAC to import'. In here import from local disk and navigate to 'temperatureDB.bacpac' inside the cloned repository. Click next till it finishes.
-4. Next navigate to Hitachi-Energy-2/App.config and open it. Search for the 'Data Source' parameter and replace 'DELL' with your SQL Server Name.
+4. Next navigate to Hitachi-Energy-2/App.config and open it. Search for the 'Data Source' parameter and replace <YOUR-SERVER-NAME> with your SQL Server Name.
 5. Next open the Hitachi-Energy-2.sln file in Visual Studio.
 6. From the Server Explorer tab refresh the Data Connections folder.
 7. Click on 'Start' to run the application.
