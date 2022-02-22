@@ -1,0 +1,10 @@
+C:\Users\Adminstrator\source\repos\Hitachi-Energy-2\Hitachi-Energy-2\bin\Debug\Hitachi-Energy-2.exe.config
+C:\Users\Adminstrator\source\repos\Hitachi-Energy-2\Hitachi-Energy-2\bin\Debug\Hitachi-Energy-2.exe
+C:\Users\Adminstrator\source\repos\Hitachi-Energy-2\Hitachi-Energy-2\bin\Debug\Hitachi-Energy-2.pdb
+C:\Users\Adminstrator\source\repos\Hitachi-Energy-2\Hitachi-Energy-2\obj\Debug\Hitachi_Energy_2.Form1.resources
+C:\Users\Adminstrator\source\repos\Hitachi-Energy-2\Hitachi-Energy-2\obj\Debug\Hitachi_Energy_2.Properties.Resources.resources
+C:\Users\Adminstrator\source\repos\Hitachi-Energy-2\Hitachi-Energy-2\obj\Debug\Hitachi-Energy-2.csproj.GenerateResource.cache
+C:\Users\Adminstrator\source\repos\Hitachi-Energy-2\Hitachi-Energy-2\obj\Debug\Hitachi-Energy-2.csproj.CoreCompileInputs.cache
+C:\Users\Adminstrator\source\repos\Hitachi-Energy-2\Hitachi-Energy-2\obj\Debug\Hitachi-Energy-2.exe
+C:\Users\Adminstrator\source\repos\Hitachi-Energy-2\Hitachi-Energy-2\obj\Debug\Hitachi-Energy-2.pdb
+C:\Users\Adminstrator\source\repos\Hitachi-Energy-2\Hitachi-Energy-2\obj\Debug\Hitachi-Energy-2.csprojAssemblyReference.cache
